@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SolarAI-Maroc/static/css/main.5c6c0bbe.css",
-    "main.js": "/SolarAI-Maroc/static/js/main.7ad2cc9c.js",
+    "main.css": "/SolarAI-Maroc/static/css/main.425c5f51.css",
+    "main.js": "/SolarAI-Maroc/static/js/main.cf1d0e76.js",
     "index.html": "/SolarAI-Maroc/index.html",
-    "main.5c6c0bbe.css.map": "/SolarAI-Maroc/static/css/main.5c6c0bbe.css.map",
-    "main.7ad2cc9c.js.map": "/SolarAI-Maroc/static/js/main.7ad2cc9c.js.map"
+    "main.425c5f51.css.map": "/SolarAI-Maroc/static/css/main.425c5f51.css.map",
+    "main.cf1d0e76.js.map": "/SolarAI-Maroc/static/js/main.cf1d0e76.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c6c0bbe.css",
-    "static/js/main.7ad2cc9c.js"
+    "static/css/main.425c5f51.css",
+    "static/js/main.cf1d0e76.js"
   ]
 }
